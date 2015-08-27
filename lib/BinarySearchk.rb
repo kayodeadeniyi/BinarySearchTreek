@@ -1,2 +1,3 @@
 require "BinarySearchk/version"
-require 'BinarySearchk/BinarySearchk'
+require 'BinarySearchk/tree'
+require 'BinarySearchk/node'
